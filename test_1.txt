@@ -1,0 +1,209 @@
+Escolha o algoritmo: 
+MinMax -> 1 | AlfaBeta -> 2 
+1
+Escolha a profundidade para o algoritmo entre [1 - +inf] : 1 ->(+/- 0,1 sec)  7->( + 20 sec) ....
+5
+Quem começa?
+1-EU (o)
+2-PC (x)
+Quem:1
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+Joga (1-7): 4
+
+##### PC A JOGAR #####
+
+linha: 5
+Tempo da jogada: 0.420128 seconds
+Num nós: 137256
+PC jogou na: 3
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| x| o| -| -| -| 
+Joga (1-7): 4
+
+##### PC A JOGAR #####
+
+linha: 3
+Tempo da jogada: 0.398428 seconds
+Num nós: 134995
+PC jogou na: 4
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| x| -| -| -| 
+-| -| -| o| -| -| -| 
+-| -| x| o| -| -| -| 
+Joga (1-7): 3
+
+##### PC A JOGAR #####
+
+linha: 3
+Tempo da jogada: 0.369672 seconds
+Num nós: 136654
+PC jogou na: 3
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| x| x| -| -| -| 
+-| -| o| o| -| -| -| 
+-| -| x| o| -| -| -| 
+Joga (1-7): 7
+
+##### PC A JOGAR #####
+
+linha: 5
+Tempo da jogada: 0.328446 seconds
+Num nós: 132608
+PC jogou na: 5
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| x| x| -| -| -| 
+-| -| o| o| -| -| -| 
+-| -| x| o| x| -| o| 
+Joga (1-7): 4
+
+##### PC A JOGAR #####
+
+linha: 4
+Tempo da jogada: 0.325294 seconds
+Num nós: 133364
+PC jogou na: 5
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| o| -| -| -| 
+-| -| x| x| -| -| -| 
+-| -| o| o| x| -| -| 
+-| -| x| o| x| -| o| 
+Joga (1-7): 5
+
+##### PC A JOGAR #####
+
+linha: 2
+Tempo da jogada: 0.271153 seconds
+Num nós: 119756
+PC jogou na: 5
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| o| x| -| -| 
+-| -| x| x| o| -| -| 
+-| -| o| o| x| -| -| 
+-| -| x| o| x| -| o| 
+Joga (1-7): 7
+
+##### PC A JOGAR #####
+
+linha: 3
+Tempo da jogada: 0.254659 seconds
+Num nós: 117985
+PC jogou na: 7
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| o| x| -| -| 
+-| -| x| x| o| -| x| 
+-| -| o| o| x| -| o| 
+-| -| x| o| x| -| o| 
+Joga (1-7): 3
+
+##### PC A JOGAR #####
+
+linha: 1
+Tempo da jogada: 0.265182 seconds
+Num nós: 128051
+PC jogou na: 3
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| x| -| -| -| -| 
+-| -| o| o| x| -| -| 
+-| -| x| x| o| -| x| 
+-| -| o| o| x| -| o| 
+-| -| x| o| x| -| o| 
+Joga (1-7): 7
+
+##### PC A JOGAR #####
+
+linha: 1
+Tempo da jogada: 0.260495 seconds
+Num nós: 128296
+PC jogou na: 7
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| x| -| -| -| x| 
+-| -| o| o| x| -| o| 
+-| -| x| x| o| -| x| 
+-| -| o| o| x| -| o| 
+-| -| x| o| x| -| o| 
+Joga (1-7): 2
+
+##### PC A JOGAR #####
+
+linha: 4
+Tempo da jogada: 0.244519 seconds
+Num nós: 127449
+PC jogou na: 2
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| x| -| -| -| x| 
+-| -| o| o| x| -| o| 
+-| -| x| x| o| -| x| 
+-| x| o| o| x| -| o| 
+-| o| x| o| x| -| o| 
+Joga (1-7): 1
+
+##### PC A JOGAR #####
+
+linha: 3
+Tempo da jogada: 0.227553 seconds
+Num nós: 125972
+PC jogou na: 2
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| x| -| -| -| x| 
+-| -| o| o| x| -| o| 
+-| x| x| x| o| -| x| 
+-| x| o| o| x| -| o| 
+o| o| x| o| x| -| o| 
+Joga (1-7): 1
+
+##### PC A JOGAR #####
+
+linha: 3
+Tempo da jogada: 0.133645 seconds
+Num nós: 81116
+PC jogou na: 1
+
+Perdeu
+-| -| -| -| -| -| -| 
+-| -| x| -| -| -| x| 
+-| -| o| o| x| -| o| 
+x| x| x| x| o| -| x| 
+o| x| o| o| x| -| o| 
+o| o| x| o| x| -| o|

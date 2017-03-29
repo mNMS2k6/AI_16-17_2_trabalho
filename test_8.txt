@@ -1,0 +1,145 @@
+Escolha o algoritmo: 
+MinMax -> 1 | AlfaBeta -> 2 
+2
+Escolha a profundidade para o algoritmo entre [1 - +inf] : 1 ->(+/- 0,1 sec)  7->( + 20 sec) ....
+7
+Quem começa?
+1-EU (o)
+2-PC (x)
+Quem:2
+
+##### PC A JOGAR #####
+
+linha: 5
+Tempo da jogada: 0.536444 seconds
+Num nós: 186011
+PC jogou na: 4
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| x| -| -| -| 
+Joga (1-7): 3
+
+##### PC A JOGAR #####
+
+linha: 4
+Tempo da jogada: 0.247222 seconds
+Num nós: 88203
+PC jogou na: 4
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| x| -| -| -| 
+-| -| o| x| -| -| -| 
+Joga (1-7): 3
+
+##### PC A JOGAR #####
+
+linha: 3
+Tempo da jogada: 0.171365 seconds
+Num nós: 67672
+PC jogou na: 4
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| x| -| -| -| 
+-| -| o| x| -| -| -| 
+-| -| o| x| -| -| -| 
+Joga (1-7): 4
+
+##### PC A JOGAR #####
+
+linha: 3
+Tempo da jogada: 0.236021 seconds
+Num nós: 97445
+PC jogou na: 3
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| o| -| -| -| 
+-| -| x| x| -| -| -| 
+-| -| o| x| -| -| -| 
+-| -| o| x| -| -| -| 
+Joga (1-7): 3
+
+##### PC A JOGAR #####
+
+linha: 5
+Tempo da jogada: 0.290533 seconds
+Num nós: 125495
+PC jogou na: 5
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| o| o| -| -| -| 
+-| -| x| x| -| -| -| 
+-| -| o| x| -| -| -| 
+-| -| o| x| x| -| -| 
+Joga (1-7): 2
+
+##### PC A JOGAR #####
+
+linha: 5
+Tempo da jogada: 0.189633 seconds
+Num nós: 88347
+PC jogou na: 6
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| o| o| -| -| -| 
+-| -| x| x| -| -| -| 
+-| -| o| x| -| -| -| 
+-| o| o| x| x| x| -| 
+Joga (1-7): 7
+
+##### PC A JOGAR #####
+
+linha: 4
+Tempo da jogada: 0.205862 seconds
+Num nós: 100438
+PC jogou na: 5
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| o| o| -| -| -| 
+-| -| x| x| -| -| -| 
+-| -| o| x| x| -| -| 
+-| o| o| x| x| x| o| 
+Joga (1-7): 6
+
+##### PC A JOGAR #####
+
+linha: 3
+Tempo da jogada: 0.137997 seconds
+Num nós: 68821
+PC jogou na: 5
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| o| o| -| -| -| 
+-| -| x| x| x| -| -| 
+-| -| o| x| x| o| -| 
+-| o| o| x| x| x| o| 
+Joga (1-7): 6
+
+##### PC A JOGAR #####
+
+linha: 2
+Tempo da jogada: 0.130481 seconds
+Num nós: 72280
+PC jogou na: 5
+
+Perdeu
+
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| o| o| x| -| -| 
+-| -| x| x| x| o| -| 
+-| -| o| x| x| o| -| 
+-| o| o| x| x| x| o|

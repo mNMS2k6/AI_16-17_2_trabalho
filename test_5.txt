@@ -1,0 +1,128 @@
+Escolha o algoritmo: 
+MinMax -> 1 | AlfaBeta -> 2 
+2
+Escolha a profundidade para o algoritmo entre [1 - +inf] : 1 ->(+/- 0,1 sec)  7->( + 20 sec) ....
+5
+Quem começa?
+1-EU (o)
+2-PC (x)
+Quem:1
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+Joga (1-7): 4
+
+##### PC A JOGAR #####
+
+coluna: 3
+linha: 4
+Tempo da jogada: 0.027815 seconds
+Num nós: 9401
+PC jogou na: 4
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| x| -| -| -| 
+-| -| -| o| -| -| -| 
+Joga (1-7): 3
+
+##### PC A JOGAR #####
+
+coluna: 2
+linha: 4
+Tempo da jogada: 0.032875 seconds
+Num nós: 10464
+PC jogou na: 3
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| x| x| -| -| -| 
+-| -| o| o| -| -| -| 
+Joga (1-7): 4
+
+##### PC A JOGAR #####
+
+coluna: 2
+linha: 3
+Tempo da jogada: 0.051193 seconds
+Num nós: 12125
+PC jogou na: 3
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| x| o| -| -| -| 
+-| -| x| x| -| -| -| 
+-| -| o| o| -| -| -| 
+Joga (1-7): 3
+
+##### PC A JOGAR #####
+
+coluna: 4
+linha: 5
+Tempo da jogada: 0.043341 seconds
+Num nós: 13201
+PC jogou na: 5
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| o| -| -| -| -| 
+-| -| x| o| -| -| -| 
+-| -| x| x| -| -| -| 
+-| -| o| o| x| -| -| 
+Joga (1-7): 4
+
+##### PC A JOGAR #####
+
+coluna: 4
+linha: 4
+Tempo da jogada: 0.02434 seconds
+Num nós: 10456
+PC jogou na: 5
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| -| -| -| -| 
+-| -| o| o| -| -| -| 
+-| -| x| o| -| -| -| 
+-| -| x| x| x| -| -| 
+-| -| o| o| x| -| -| 
+Joga (1-7): 4
+
+##### PC A JOGAR #####
+
+coluna: 4
+linha: 3
+Tempo da jogada: 0.017594 seconds
+Num nós: 8063
+PC jogou na: 5
+
+1| 2| 3| 4| 5| 6| 7
+-| -| -| -| -| -| -| 
+-| -| -| o| -| -| -| 
+-| -| o| o| -| -| -| 
+-| -| x| o| x| -| -| 
+-| -| x| x| x| -| -| 
+-| -| o| o| x| -| -| 
+Joga (1-7): 4
+
+Ganhou
+-| -| -| o| -| -| -| 
+-| -| -| o| -| -| -| 
+-| -| o| o| -| -| -| 
+-| -| x| o| x| -| -| 
+-| -| x| x| x| -| -| 
+-| -| o| o| x| -| -|
